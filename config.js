@@ -71,7 +71,7 @@ window.WEDDING_CONFIG = {
     setupMessage: "RSVP chưa được nối với Web App endpoint.",
     note: "Thông tin chỉ được sử dụng để chuẩn bị cho ngày cưới.",
     sheetUrl: "https://docs.google.com/spreadsheets/d/1Q10Q5InybL0o54QssDZPOBhj7OBpiLM7kdDxnd7YphI/edit?gid=0#gid=0",
-    submitUrl: ""
+    submitUrl: "https://script.google.com/macros/s/AKfycbyJcX_QR-UxNBx_GZnJTuiRLnKOLTtxNwP5EseCM511meaeUESUG1b1IwoyC1pRMFFqWg/exec"
   },
   gift: {
     heading: "Gift",
